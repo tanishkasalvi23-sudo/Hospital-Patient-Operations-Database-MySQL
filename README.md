@@ -110,7 +110,7 @@ The project covers beginner to intermediate SQL concepts along with advanced fea
 ![Task 1](billing=16.webp)
 
 ### Task 1 - Query 3a (Patient Admission Details)
-![Task 1](Query3a.webp)
+![Task 1](Query3a(1).webp)
 
 ### Task 1 - Query 3b (Average Stay by Department)
 ![Task 1](Query3b.webp)
@@ -125,10 +125,10 @@ The project covers beginner to intermediate SQL concepts along with advanced fea
 ![Task 2](CTE1b.webp)
 
 ### Task 2 - Window Function 2a (Running Monthly Revenue)
-![Task 2](Window2a.webp)
+![Task 2](window2a.webp)
 
 ### Task 2 - Window Function 2b (Doctor Ranking)
-![Task 2](Window2b.webp)
+![Task 2](window2b.webp)
 
 ### Task 2 - View Created
 ![Task 2](VIEWcreated.webp)
@@ -140,7 +140,7 @@ The project covers beginner to intermediate SQL concepts along with advanced fea
 ![Task 2](bills.webp)
 
 ### Task 2 - Stored Procedure Created
-![Task 2](Storedprocedure.webp)
+![Task 2](storedprocedure.webp)
 
 ### Task 2 - Monthly Report (January 2023)
 ![Task 2](monthlyreport.webp)
