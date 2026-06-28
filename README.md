@@ -110,7 +110,7 @@ The project covers beginner to intermediate SQL concepts along with advanced fea
 ![Task 1](billing=16.webp)
 
 ### Task 1 - Query 3a (Patient Admission Details)
-![Task 1](Query3a(1).webp)
+![Task 1](Query3a.webp)
 
 ### Task 1 - Query 3b (Average Stay by Department)
 ![Task 1](Query3b.webp)
