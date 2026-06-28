@@ -92,6 +92,64 @@ The project covers beginner to intermediate SQL concepts along with advanced fea
 
 ---
 
+## 📸 Screenshots
+
+### Setup - Database Created
+![Setup](databasecreated.webp)
+
+### Task 1 - Show Tables
+![Task 1](SHOWTABLES.webp)
+
+### Task 1 - Patients Table Record Count
+![Task 1](patients=12.webp)
+
+### Task 1 - Admissions Table Record Count
+![Task 1](admissions=16.webp)
+
+### Task 1 - Billing Table Record Count
+![Task 1](billing=16.webp)
+
+### Task 1 - Query 3a (Patient Admission Details)
+![Task 1](Query3a.webp)
+
+### Task 1 - Query 3b (Average Stay by Department)
+![Task 1](Query3b.webp)
+
+### Task 1 - Query 3c (Billing Breakdown)
+![Task 1](Query3c.webp)
+
+### Task 2 - CTE 1a (Multiple Admissions)
+![Task 2](CTE1a.webp)
+
+### Task 2 - CTE 1b (Doctor Performance)
+![Task 2](CTE1b.webp)
+
+### Task 2 - Window Function 2a (Running Monthly Revenue)
+![Task 2](Window2a.webp)
+
+### Task 2 - Window Function 2b (Doctor Ranking)
+![Task 2](Window2b.webp)
+
+### Task 2 - View Created
+![Task 2](VIEWcreated.webp)
+
+### Task 2 - View Query (Cardiology Patients)
+![Task 2](cardiology.webp)
+
+### Task 2 - View Query (Bills Above ₹50,000)
+![Task 2](bills.webp)
+
+### Task 2 - Stored Procedure Created
+![Task 2](Storedprocedure.webp)
+
+### Task 2 - Monthly Report (January 2023)
+![Task 2](monthlyreport.webp)
+
+### Task 2 - Monthly Report (May 2023)
+![Task 2](monthdata.webp)
+
+---
+
 ## Learning Outcomes
 
 - Relational Database Design
